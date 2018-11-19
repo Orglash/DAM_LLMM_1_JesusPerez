@@ -1,0 +1,120 @@
+html {
+			background-image: url("Imagenes/scrolltexture.jpeg"); 
+		}
+		h1 {
+			text-shadow: 2px 2px gold;
+			margin-left:50px;
+			color:darkred;
+			font-size: 78px;
+			font-family: 'Eagle Lake';
+			text-align:center;
+		}
+		h2 {
+			margin-left:50px;
+			color:firebrick;
+			font-size: 50px;
+			font-family: 'Eagle Lake';
+			text-align:center;
+		}
+		h3 {
+			margin-left:50px;
+			color:darkred;
+			font-family: 'Eagle Lake';
+			font-size: 36px;
+			text-align:center;
+		}
+		h4 {
+			margin-left:200px;
+			color:crimson;
+			font-family: 'Eagle Lake';
+			font-size: 25px;
+		}
+		h5 {
+			padding:0px;
+			margin-left:100px;
+			margin-bottom:10px;
+			color:olive;
+		}
+		p {
+			padding: 5px;
+			background-color:wheat;
+			margin-left:50px;
+			margin-right:50px;
+			font-family: 'Almendra';
+			font-size: 18px;
+		}
+		.boton{
+			color:darkred;
+			margin-left:100px;
+			padding:10px;
+			border-style:outset;
+			border-width:2px;
+			border-color:gold;
+			background-color: papayawhip;
+		}
+		.cita{
+			font-size:20px;
+			margin-left:150px;
+		}
+		.horizontal{
+			position:fixed;
+			border-bottom:gold 5px ridge;
+			border-top:gold 5px ridge;
+			margin:0;
+			background-color:firebrick;
+			color:gold;
+			min-height: 30px;
+			float:right;
+			width:100%;
+			font-family: 'Almendra';
+			top:0px;
+			left:0px;
+			right:0px;
+		}
+
+		.vertical{
+			height:100%;
+			position:fixed;
+			left: 0;
+			width:200px;
+			border-right: gold 5px ridge;
+			border-top: gold 5px ridge;
+			background-color:wheat;
+			color:firebrick;
+			font-family: 'Almendra';
+			margin-left:0px;
+		}
+		ul.nav {
+			display:block;
+			padding-bottom:5px;
+			padding-right:375px;
+			padding-top:5px;
+			float:right;
+			font-size:24px;
+		}
+		ul.alter{
+
+		}
+		li.alter{
+			padding-top:5px;
+			padding-bottom:5px;
+		}
+		.boton:hover{
+			border-style:inset;
+		}
+		a.menu{
+			color:gold;
+		}
+		a.menu2{
+			color:firebrick;
+		}
+
+		li.nav{
+			display:block;
+			float:left;
+			padding:0 20px;
+		}
+
+		.video{
+			height:800px;
+		}
